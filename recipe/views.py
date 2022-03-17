@@ -10,3 +10,4 @@ class PostList(generic.ListView):
     paginate_by = 10
 
 
+
