@@ -15,17 +15,27 @@ body {
 
 .navbar-brand {
     font-family: 'Inspiration', sans-serif;
-    font-size: 45px;
+    font-size: 90px;
     color: #B28649;
 }
 
 .navbar {
-    background-color: #4897B1;
+    background-color: #4851B1;
+}
+
+.navbar-toggler {
+    color: #B28649;
+    border: 2px solid;
 }
 
 .nav-link {
     color: #B28649;
     font-family: 'Hubballi', sans-serif;
+    font-size: 30px;
+}
+
+.navbar-toggler-icon {
+    color: #B28649;
 }
 
 /* Footer CSS */
@@ -40,11 +50,13 @@ body {
 
 footer {
     text-align: center;
-    background-color: #4897B1;
+    background-color: #4851B1;
 }
 
 footer p {
     margin-top: 15px;
+    color: #B28649;
+    font-size: 20px;
 }
 
 .social-links i:hover {
