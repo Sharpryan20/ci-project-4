@@ -1,0 +1,10 @@
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Baloo Thambi 2', cursive, 'Roboto', sans-serif;
+    ;
+}
