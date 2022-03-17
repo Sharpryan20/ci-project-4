@@ -16,5 +16,38 @@ body {
 .navbar-brand {
     font-family: 'Inspiration', sans-serif;
     font-size: 45px;
+    color: #B28649;
+}
+
+.navbar {
+    background-color: #4897B1;
+}
+
+.nav-link {
+    color: #B28649;
+    font-family: 'Hubballi', sans-serif;
+}
+
+/* Footer CSS */
+
+.social-links i {
+    font-size: 40px;
+    padding: 7px;
+    text-decoration: none;
+    color: #B28649;
+    margin-bottom: 15px;
+}
+
+footer {
+    text-align: center;
+    background-color: #4897B1;
+}
+
+footer p {
+    margin-top: 15px;
+}
+
+.social-links i:hover {
+    color: #98733E;
 }
 
