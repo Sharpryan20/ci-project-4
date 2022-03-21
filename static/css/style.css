@@ -43,6 +43,19 @@ body {
     color: #B28649;
 }
 
+/* Index.html CSS */
+
+.recipe-title {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 65px;
+}
+
+.recipe-text {
+    text-align: center;
+    font-size: 40px;
+}
+
 /* Footer CSS */
 
 .social-links i {
