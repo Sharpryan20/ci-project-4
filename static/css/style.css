@@ -19,6 +19,10 @@ body {
     color: #B28649;
 }
 
+.navbar-brand:hover {
+    color: #98733E;
+}
+
 .navbar {
     background-color: #4851B1;
 }
